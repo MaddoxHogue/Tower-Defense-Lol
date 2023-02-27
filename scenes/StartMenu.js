@@ -13,11 +13,13 @@ export class StartMenu extends Phaser.Scene {
 
   update() {
 
+		//ur mom
+
     // comment in for controller/gamepad support (A Bittpm tp Start)
     // if (this.input.gamepad.total > 0) {
     //   const pad = this.input.gamepad.getPad(0);
     //   if (pad.A) {
-    //     this.scene.start("main-level");
+   this.scene.start("main-level");
     //   }
     // }
   }
